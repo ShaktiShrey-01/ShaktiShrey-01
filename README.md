@@ -2,6 +2,9 @@
 <h3 align="center">A Passionate web and mobile developer</h3>
 
 - 🌱 I’m currently learning **Mern stack and flutter .**
+- <p align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV1ZDEwcWJjancxbm9udjZoandidWdmZ2FhdzdrbTV6ejNwdjhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Learning Illustration" width="200px" style="max-width:100%; height:auto;" />
+</p>
 
 - 💬 Ask me about **react , flutter and mongodb**
 
