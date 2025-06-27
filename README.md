@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SHAKTI SHREY</h1>
 <h3 align="center">A Passionate web and mobile developer</h3>
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="vertical-align: top; padding-right: 40px;">
       <ul>
         <li>🌱 I’m currently learning <strong>Mern stack and flutter</strong>.</li>
         <li>💬 Ask me about <strong>react , flutter and mongodb</strong></li>
@@ -10,11 +10,10 @@
       </ul>
     </td>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV1ZDEwcWJjancxbm9udjZoandidWdmZ2FhdzdrbTV6ejNwdjhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Coding GIF" width="150" style="max-width:100%; height:auto;" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV1ZDEwcWJjancxbm9udjZoandidWdmZ2FhdzdrbTV6ejNwdjhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Coding GIF" width="160" style="max-width:100%; height:auto;" />
     </td>
   </tr>
 </table>
-- 📫 How to reach me **shaktishrey221@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
