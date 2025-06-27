@@ -10,7 +10,10 @@
       </ul>
     </td>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV1ZDEwcWJjancxbm9udjZoandidWdmZ2FhdzdrbTV6ejNwdjhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Coding GIF" width="160" style="max-width:100%; height:auto;" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV1ZDEwcWJjancxbm9udjZoandidWdmZ2FhdzdrbTV6ejNwdjhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" 
+     alt="Coding GIF" 
+     width="160" 
+     style="max-width:100%; height:auto; border:2px solid black; border-radius:8px;" />
     </td>
   </tr>
 </table>
