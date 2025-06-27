@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHAKTI SHREY</h1>
 <h3 align="center">A Passionate web and mobile developer</h3>
-<table style="border: none; border-collapse: collapse;">
+<table>
   <tr>
     <td style="vertical-align: top; padding-right: 40px;">
       <ul>
@@ -14,7 +14,6 @@
     </td>
   </tr>
 </table>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shakti33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakti shrey" height="30" width="40" /></a>
