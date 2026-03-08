@@ -50,11 +50,11 @@
 
   ### 🔮 CONNECT WITH THE ARCHITECT
   <p align="center">
-    <a href="mailto:your-email@gmail.com">
+    <a href="mailto:shaktishrey221@gmail.com">
       <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/shakti-shrey">
+    <a href="https://www.linkedin.com/in/shakti33/">
       <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
