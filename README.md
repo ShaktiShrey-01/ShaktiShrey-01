@@ -1,31 +1,70 @@
-<h1 align="center">Hi 👋, I'm SHAKTI SHREY</h1>
-<h3 align="center">A Passionate web and mobile developer</h3>
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 40px;">
-      <ul>
-        <li>🌱 I’m currently learning <strong>Mern stack and flutter</strong>.</li>
-        <li>💬 Ask me about <strong>react , flutter and mongodb</strong></li>
-        <li>📫 How to reach me <strong>shaktishrey221@gmail.com</strong></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV1ZDEwcWJjancxbm9udjZoandidWdmZ2FhdzdrbTV6ejNwdjhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" 
-     alt="Coding GIF" 
-     width="160" 
-     style="max-width:100%; height:auto; border:2px solid black; border-radius:8px;" />
-    </td>
-  </tr>
-</table>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shakti33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakti shrey" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <br class="Apple-interchange-newline">
+  <h2 align="center">🕯️ HELLO THERE! 🕯️</h2>
+  <br>
+  <p align="center">
+    I'm **Shakti Shrey**, Seeker of the Architect Pathway. I am a Full-Stack Developer based in India, dedicated to building high-performance web and mobile applications with a focus on clean code and elegant UI.
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+  <br><br>
+
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0C2A,50:1F1C4D,100:0F0C29&height=180&section=header&text=The%20Tarot%20Club%20:%20Architect%20Pathway&fontSize=24&fontColor=DDD6FE&animation=twinkling"/>
+  </p>
+
+  <br><br>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Mastering+MERN+Stack;Expert+Flutter+Development;Architecting+Scalable+Apps;Innovation+Through+Code." />
+  </p>
+
+  <br><br>
+
+  <p align="center">
+    Full-Stack & Mobile Engineer walking the pathway of cross-platform excellence and production-grade systems.
+  </p>
+
+  <br><br>
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flutter,dart,firebase,js,ts,git,docker" height="38"/>
+  </p>
+
+  <br><br>
+
+  <p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="115"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="115"/>
+  </p>
+
+  <br><br>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Observers&color=4C1D95&style=flat"/>
+  </p>
+
+  <br><br>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/MERN-Focused-6D28D9?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Flutter-Specialist-7C3AED?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Full%20Stack-Active-5B21B6?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/UI%2FUX-Enthusiast-4C1D95?style=for-the-badge"/>
+  </p>
+
+  <br><br>
+
+  <p align="center">
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://img.shields.io/badge/Email-312E81?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+      <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://x.com/YOUR_X_HANDLE">
+      <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=twitter&logoColor=white"/>
+    </a>
+  </p>
+</div>
