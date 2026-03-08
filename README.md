@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <b>MERN Developer</b> based in India. I specialize in building <b>clean, scalable web architectures</b> <br> and <b>fluid mobile experiences</b> using Flutter. I believe in the power of simple, effective design.
+    <b>MERN Developer</b> based in India. I specialize in building <b>clean, scalable web architectures</b> <br> and <b>fluid mobile experiences</b> using Flutter.
   </p>
 
   ---
@@ -22,12 +22,12 @@
 
   ### 📊 ARCHITECT'S VITALITY
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShaktiShrey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaktiShrey-01&theme=tokyonight&hide_border=true" height="185"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ShaktiShrey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaktiShrey-01&theme=tokyonight&hide_border=true" height="185" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiShrey-01&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiShrey-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="185" />
   </p>
 
   <br>
@@ -43,7 +43,6 @@
   <p align="center">
     <img src="https://img.shields.io/badge/MERN-Expert-6D28D9?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-Specialist-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Architecture-Clean-5B21B6?style=for-the-badge&logo=dart&logoColor=white"/>
     <img src="https://komarev.com/ghpvc/?username=ShaktiShrey-01&label=ARCHIVE%20VIEWERS&color=4C1D95&style=for-the-badge"/>
   </p>
 
@@ -57,10 +56,6 @@
     &nbsp;
     <a href="https://linkedin.com/in/shakti-shrey">
       <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    &nbsp;
-    <a href="https://x.com/shaktishrey">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
   </p>
   
