@@ -22,12 +22,12 @@
 
   ### 📊 ARCHITECT'S VITALITY
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShaktiShrey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaktiShrey-01&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ShaktiShrey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaktiShrey-01&theme=tokyonight&hide_border=true" height="185"/>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiShrey-01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiShrey-01&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
   </p>
 
   <br>
@@ -51,15 +51,15 @@
 
   ### 🔮 CONNECT WITH THE ARCHITECT
   <p align="center">
-    <a href="mailto:shaktishrey@example.com">
+    <a href="mailto:your-email@gmail.com">
       <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+    <a href="https://linkedin.com/in/shakti-shrey">
       <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     &nbsp;
-    <a href="https://x.com/YOUR_X_HANDLE">
+    <a href="https://x.com/shaktishrey">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
   </p>
