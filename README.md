@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0C2A,50:1F1C4D,100:0F0C29&height=200&section=header&text=SHAKTI%20SHREY&fontSize=70&fontColor=DDD6FE&animation=twinkling"/>
 
-  <h2 align="center">🕯️🕯️ SEEKER OF THE ARCHITECT PATHWAY 🕯️🕯️</h2>
+  <h2 align="center">🕯️ SEEKER OF THE ARCHITECT PATHWAY 🕯️</h2>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MERN+Stack+Specialist;Flutter+App+Architect;Building+Modern+Interfaces;Mastering+Clean+Code." />
