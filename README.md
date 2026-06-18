@@ -23,7 +23,11 @@
   ### 📊 ARCHITECT'S VITALITY
   <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShaktiShrey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaktiShrey-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&combine_all_commits=true" height="185" />
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaktiShrey-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
   </p>
 
   <p align="center">
