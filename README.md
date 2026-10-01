@@ -31,7 +31,7 @@
 
   <p align="center">
     <img src="https://github-readme-stats-ten-kappa-48.vercel.app/api?username=ShaktiShrey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" height="185" />
-    <img src="https://streak-stats.demolab.com?user=ShaktiShrey-01&theme=tokyonight&hide_border=true" height="185" />
+    <img src="https://streak-stats.demolab.com?user=ShaktiShrey-01&theme=tokyonight&hide_border=true&v=2" height="185" />
   </p>
 
   <p align="center">
