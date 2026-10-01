@@ -26,7 +26,11 @@
 
   <h3>📊 ARCHITECT'S VITALITY</h3>
   <p align="center">
-    <img src="https://github-readme-stats-ten-kappa-48.vercel.app/api?username=ShaktiShrey-01&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,commits,prs,issues,contribs&custom_title=Architect%20Rank" height="185" />
+    <img src="./assets/title.svg" width="420" alt="Title: Seeker of the Architect Path"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats-ten-kappa-48.vercel.app/api?username=ShaktiShrey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" height="185" />
     <img src="https://streak-stats.demolab.com?user=ShaktiShrey-01&theme=tokyonight&hide_border=true" height="185" />
   </p>
 
